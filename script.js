@@ -82,7 +82,7 @@ let score=0, wicket=0;
 
         const App = () => (
             <>
-                <h1>Score Keeper App</h1>
+                <h1>Score Keeper App: Kushagr</h1>
                 <h2>Score: {score}/{wicket}</h2>
                 <ScoreButtons/>
                 <hr></hr>
